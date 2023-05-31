@@ -2,6 +2,8 @@
     <img src="./readme_images/calmcloud_logo.png" alt="CalmCloud logo" title="CalmCloud" align="right" height="60" />
 </a>
 
+Made by KevinBruyne
+
 # CalmCloud
 
 CalmCloud is an online music streaming service (inspired by Mixcloud.com) for music lovers  - a platform where users can upload, share and interact with audio content provided by the website's wider community. Built with React, Redux, JavaScript, and Ruby on Rails, supported by a PostgreSQL database and ASW S3 storage.
